@@ -1,3 +1,19 @@
 Below find a complete record of the images housed within the pf2e-inner-sea-region/icons folder along with attributions as required.
 
-images sourced from games-icons.net are licensed under CC BY 3.0
+
+
+ancient-columns.svg by Delapouite is licensed under CC BY 3.0
+archive-research.svg by Delapouite is licensed under CC BY 3.0
+battle-gear.svg by Lorc is licensed under CC BY 3.0
+burning-tree.svg by Lorc is licensed under CC BY 3.0
+camping-tent.svg by Delapouite is licensed under CC BY 3.0
+capitol.svg by Lorc is licensed under CC BY 3.0
+castle-ruins.svg by Delapouite is licensed under CC BY 3.0
+church.svg by Delapouite is licensed under CC BY 3.0
+coffin.svg by Lorc is licensed under CC BY 3.0
+cogsplosion.svg by Lorc is licensed under CC BY 3.0
+cracked-glass.svg by Lorc is licensed under CC BY 3.0
+dead-wood.svg by Lorc is licensed under CC BY 3.0
+desert-skull.svg by Lorc is licensed under CC BY 3.0
+dolmen by Delapouite is licensed under CC BY 3.0
+dragon-spiral.svg by Lorc is licensed under CC BY 3.0
