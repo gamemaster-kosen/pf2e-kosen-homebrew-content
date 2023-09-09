@@ -1,0 +1,35 @@
+{
+  "id": "pf2e-kosen-homebrew-content",
+  "title": "PF2e Kosen's Homebrew Content",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Kosen"
+    }
+  ],
+  "packs": [
+    {
+      "name": "pf2e-kosen-adventures",
+      "label": "pf2e-kosen-adventures",
+      "path": "packs/pf2e-kosen-adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ]
+}

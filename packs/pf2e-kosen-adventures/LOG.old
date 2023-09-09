@@ -1,0 +1,8 @@
+2023/08/29-19:34:54.813 5dac Recovering log #87
+2023/08/29-19:34:54.957 5dac Delete type=0 #87
+2023/08/29-19:34:54.957 5dac Delete type=3 #85
+2023/08/29-19:37:38.544 1738 Level-0 table #92: started
+2023/08/29-19:37:38.544 1738 Level-0 table #92: 0 bytes OK
+2023/08/29-19:37:38.660 1738 Delete type=0 #90
+2023/08/29-19:37:38.660 1738 Manual compaction at level-0 from '!adventures!MjifMiNN0TyXr1ap' @ 72057594037927935 : 1 .. '!adventures!MjifMiNN0TyXr1ap' @ 0 : 0; will stop at (end)
+2023/08/29-19:37:38.660 1738 Manual compaction at level-1 from '!adventures!MjifMiNN0TyXr1ap' @ 72057594037927935 : 1 .. '!adventures!MjifMiNN0TyXr1ap' @ 0 : 0; will stop at (end)
