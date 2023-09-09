@@ -176,3 +176,48 @@ varisia-symbol.svg
 - WW Star / Estoile by collegeoflegs is licensed under CC BY-NC-SA 4.0 , source: Mordaunt by WappenWiki is licensed under CC BY-NC-SA 3.0
 - Heater by Heraldicon is in the public domain
 - WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+
+
+images/custom-heraldry/organisations
+
+house-garess-symbol.svg
+- Mountain by askilaskin is licensed under CC BY-SA 4.0 , source: Mountain (3) by Artist unknown is licensed under CC BY-SA 4.0 modifications: PhotoFiltre
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+house-lebeda-symbol.svg
+- Swan by percival is licensed under CC BY-NC-SA 4.0 , source: Gans zu Putlitz by WappenWiki is licensed under CC BY-NC-SA 3.0
+- 1-Part Simple Banner by korfi2go is in the public domain
+
+house-lodovka-symbol.svg
+- Crab by percival is licensed under CC BY-SA 4.0 , source: Fish by Gunnvôr Silfrahárr is licensed under CC BY-SA 3.0
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+house-medvyed-symbol.svg
+- Bear Rampant by percival is licensed under CC BY-NC-SA 4.0 , source: Smolensk Bergshammar by WappenWiki is licensed under CC BY-NC-SA 3.0
+- antlers by pseudomonas is licensed under CC BY-SA 4.0 , source: Province of Cremona by MostEpic is licensed under CC BY-SA 3.0
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+house-orlovsky-symbol.svg
+- Displayed eagle by ngch is licensed under CC BY 4.0 , source: Águila explayada by milenioscuro is licensed under CC BY 4.0
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+house-rogarvia-symbol.svg
+- three-headed dragon by quivirus is licensed under CC BY-NC-SA 4.0 , source: File:Belzunce Augmentation.svg by WappenWiki is licensed under CC BY-NC-SA 3.0 modifications: Head and wings from https://wappenwiki.org/index.php/File:Czerskie.svg
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
+
+house-surtova-symbol.svg
+- Ship by titouanovic is licensed under CC BY-SA 4.0 , source: File:Heraldic ship.svg by BonifaciusVIII is licensed under CC BY-SA 3.0
+- 1-Part Simple Banner by korfi2go is in the public domain
+- Heater by Heraldicon is in the public domain
+- WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
