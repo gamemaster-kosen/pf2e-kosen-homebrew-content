@@ -1,6 +1,6 @@
 # pf2e-kosen-homebrew-content
 
-This module is for importing homebrew content for use in the Pathfinder 2nd Edition system.
+This modules provides homebrew content for the Pathfinder 2nd Edition game system.
 
 #### pf2e-inner-sea-region
-This adventure includes an interactive Golarion map; featuring the Inner Sea Region & The Darklands.
+An interactive hexploration-based map of Golarion; will be updated to provide additional functionality with time.
