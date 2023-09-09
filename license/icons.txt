@@ -1,6 +1,10 @@
 Below find a complete record of the images housed within the pf2e-inner-sea-region/icons folder along with attributions as required.
 
+icons sourced from games-icons.net are authored by Lorc, Delapouite & various others - and licensed under CC by 3.0
 
+
+
+The below images were sourced from games-icons.net
 
 ancient-columns.svg by Delapouite is licensed under CC BY 3.0
 archive-research.svg by Delapouite is licensed under CC BY 3.0
@@ -17,3 +21,64 @@ dead-wood.svg by Lorc is licensed under CC BY 3.0
 desert-skull.svg by Lorc is licensed under CC BY 3.0
 dolmen by Delapouite is licensed under CC BY 3.0
 dragon-spiral.svg by Lorc is licensed under CC BY 3.0
+drakkar-dragon.svg by Lorc is licensed under CC BY 3.0
+dwarf-helmet.svg by Kier Heyl  is licensed under CC BY 3.0
+egyptian-pyramids.svg by Delapouite is licensed under CC BY 3.0
+egyptian-sphinx.svg by Delapouite is licensed under CC BY 3.0
+elven-castle.svg by Pepijn Poolman is licensed under CC BY 3.0
+evil-bud.svg by Lorc is licensed under CC BY 3.0
+factory.svg by Delapouite is licensed under CC BY 3.0
+falling-rocks.svg by Delapouite is licensed under CC BY 3.0
+family-house.svg by Delapouite is licensed under CC BY 3.0
+fire-shrine.svg by Delapouite is licensed under CC BY 3.0
+fish-corpse.svg by Lorc is licensed under CC BY 3.0
+fruit-tree.svg by Delapouite is licensed under CC BY 3.0
+gold-mine.svg by Delapouite is licensed under CC BY 3.0
+great-pyramid.svg by Delapouite is licensed under CC BY 3.0
+harbor-dock.svg by Delapouite is licensed under CC BY 3.0
+hill-fort.svg by Delapouite is licensed under CC BY 3.0
+hills.svg by Delapouite is licensed under CC BY 3.0
+hole.svg by Delapouite is licensed under CC BY 3.0
+holy-oak.svg by Cathelineau is licensed under CC BY 3.0
+huts-village.svg by Delapouite is licensed under CC BY 3.0
+ice-cube.svg by Lorc is licensed under CC BY 3.0
+island.svg by Delapouite is licensed under CC BY 3.0
+jungle.svg by Delapouite is licensed under CC BY 3.0
+leaf-swirl.svg by Lorc is licensed under CC BY 3.0
+lighthouse.svg by Delapouite is licensed under CC BY 3.0
+lightning-storm.svg by Lorc is licensed under CC BY 3.0
+mammoth.svg by Delapouite is licensed under CC BY 3.0
+medieval-barracks.svg by Delapouite is licensed under CC BY 3.0
+mountain-road.svg by Delapouite is licensed under CC BY 3.0
+nest-eggs.svg by Delapouite is licensed under CC BY 3.0
+oasis.svg by Delapouite is licensed under CC BY 3.0
+observatory.svg by Delapouite is licensed under CC BY 3.0
+palisade.svg by Delapouite is licensed under CC BY 3.0
+pine-tree.svg by Lorc is licensed under CC BY 3.0
+pirate-flag.svg by Delapouite is licensed under CC BY 3.0
+poison-gas.svg by Lorc is licensed under CC BY 3.0
+prisoner.svg by Delapouite is licensed under CC BY 3.0
+rat.svg by Delapouite is licensed under CC BY 3.0
+ribcage.svg by Lorc is licensed under CC BY 3.0
+rock.svg by Lorc is licensed under CC BY 3.0
+rope-bridge.svg by Delapouite is licensed under CC BY 3.0
+ship-wheel.svg by Delapouite is licensed under CC BY 3.0
+ship-wreck.svg by Delapouite is licensed under CC BY 3.0
+spooky-house.svg by Delapouite is licensed under CC BY 3.0
+stairs.svg by Delapouite is licensed under CC BY 3.0
+stone-crafting.svg by Lorc is licensed under CC BY 3.0
+tavern-sign.svg by Delapouite is licensed under CC BY 3.0
+three-leaves.svg by Lorc is licensed under CC BY 3.0
+throne-king.svg by Delapouite is licensed under CC BY 3.0
+tower-bridge.svg by Delapouite is licensed under CC BY 3.0
+trade.svg by Lorc is licensed under CC BY 3.0
+tree-face.svg by Cathelineau is licensed under CC BY 3.0
+treehouse.svg by Caro Asercion is licensed under CC BY 3.0
+tumulus.svg by Cathelineau is licensed under CC BY 3.0
+valley.svg by Lorc is licensed under CC BY 3.0
+vertical-banner.svg by Delapouite is licensed under CC BY 3.0
+volcano.svg by Lorc is licensed under CC BY 3.0
+water-fountain.svg by Delapouite is licensed under CC BY 3.0
+water-mill.svg by Caro Asercion is licensed under CC BY 3.0
+water-splash.svg by Lorc is licensed under CC BY 3.0
+willow-tree.svg by Caro Asercion is licensed under CC BY 3.0
