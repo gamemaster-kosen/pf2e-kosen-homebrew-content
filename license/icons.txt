@@ -82,3 +82,5 @@ water-fountain.svg by Delapouite is licensed under CC BY 3.0
 water-mill.svg by Caro Asercion is licensed under CC BY 3.0
 water-splash.svg by Lorc is licensed under CC BY 3.0
 willow-tree.svg by Caro Asercion is licensed under CC BY 3.0
+wood-cabin.svg by Delapouite is licensed under CC BY 3.0
+ranch-gate.svg by Delapouite is licensed under CC BY 3.0
