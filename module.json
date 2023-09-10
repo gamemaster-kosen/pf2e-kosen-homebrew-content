@@ -34,6 +34,6 @@
   ],
   "url": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content",
   "manifest": "https://raw.githubusercontent.com/gamemaster-kosen/pf2e-kosen-homebrew-content/main/module.json",
-  "download": "",
+  "download": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/releases/download/0.0.1/module.zip",
   "readme": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/blob/main/README.md"
 }
