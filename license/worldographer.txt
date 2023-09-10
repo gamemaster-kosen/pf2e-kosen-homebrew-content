@@ -1,0 +1,7 @@
+the following were created using the worldographer software; utilising the classic tiles package.
+
+pf2e-inner-sea-region/scenes 
+- inner-sea-region.webp
+- nar-voth.webp
+- orv.webp
+- sekamina.webp
