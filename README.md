@@ -8,3 +8,4 @@ A complete list of content provided by this module will be updated below as addi
 
 ### pf2e-inner-sea-region
 - An interactive hexploration-based map of Golarion; will be updated to provide additional functionality with time.
+- Import via "PF2e Inner Sea Region" in the Adventures compendia titled "pf2e-kosen-adventures".
