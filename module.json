@@ -33,6 +33,6 @@
     }
   ],
   "url": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content",
-  "manifest": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/module.json",
+  "manifest": "https://raw.githubusercontent.com/gamemaster-kosen/pf2e-kosen-homebrew-content/main/module.json",
   "readme": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/README.md"
 }
