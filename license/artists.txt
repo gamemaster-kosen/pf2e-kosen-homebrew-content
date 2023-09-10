@@ -3,7 +3,7 @@ Below is found a record of all of the artists whose work was referenced in the c
 In the case where an artist cannot be found, or it is unclear who the main artist is, a source has been provided which references where the original artwork can be found.
 
 pf2e-inner-sea-region/scenes/inner-sea-region.webp
-- artist: robert lazzaretti (source: inner sea poster map folio)
+- artist: robert lazzaretti (source: pathfinder campaign setting; inner sea poster map folio)
 - artist: rob mccaleb (source: pathfinder 2nd edition core rulebook; golarion world map)
 
 pf2e-inner-sea-region/scenes/nar-voth.webp
