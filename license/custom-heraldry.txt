@@ -2,7 +2,7 @@ Below find a complete record of the images housed within the pf2e-inner-sea-regi
 
 
 
-images/custom-heraldry/nations
+pf2e-inner-sea-region/images/custom-heraldry/nations
 
 absalom-symbol.svg
 - Wing by korfi2go is licensed under CC BY-SA 4.0 , source: Wing by Pennsic Traceable Art is licensed under CC BY-SA 4.0
@@ -61,8 +61,6 @@ jalmeray-symbol.svg
 - oil lamp by vairy is licensed under CC BY-SA 4.0 , source: File:Oil lamps in heraldry1.svg by Jpgibert/AnonMoos/Eugenio Hansen, OFS is licensed under CC BY-SA 3.0
 - Heater by Heraldicon is in the public domain
 - WappenWiki (default) by WappenWiki is licensed under CC BY-NC-SA 3.0
-
-BEGIN COPY PASTING FROM HERE
 
 katapesh-symbol.svg
 - Cacts by ngch is licensed under CC BY 4.0 , source: Escudo del Reino de México.svg by Luis Fernando Mata Agredano is licensed under CC BY 4.0
@@ -179,7 +177,7 @@ varisia-symbol.svg
 
 
 
-images/custom-heraldry/organisations
+pf2e-inner-sea-region/images/custom-heraldry/organisations
 
 house-garess-symbol.svg
 - Mountain by askilaskin is licensed under CC BY-SA 4.0 , source: Mountain (3) by Artist unknown is licensed under CC BY-SA 4.0 modifications: PhotoFiltre
