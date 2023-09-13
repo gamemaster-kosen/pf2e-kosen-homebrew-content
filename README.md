@@ -19,4 +19,3 @@ Below find a complete record of the currently available hexploration maps and th
 #### PF2e: Darklands Hexploration Map(s) (WORK IN PROGRESS)
 
 - This is a series of 3 hexploration maps which feature the regions of Nar-Voth, Sekamina and Orv.
-- 
