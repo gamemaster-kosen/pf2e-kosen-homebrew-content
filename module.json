@@ -1,7 +1,7 @@
 {
   "id": "pf2e-kosen-homebrew-content",
   "title": "PF2e Kosen's Homebrew Content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -34,6 +34,6 @@
   ],
   "url": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content",
   "manifest": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/releases/latest/download/module.json",
-  "download": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/releases/download/v1.0.0/module.zip",
+  "download": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/releases/download/v1.0.1/module.zip",
   "readme": "https://github.com/gamemaster-kosen/pf2e-kosen-homebrew-content/blob/main/README.md"
 }
