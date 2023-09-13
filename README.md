@@ -1,21 +1,11 @@
-# PF2e Kosen's Homebrew content
+# pf2e-kosen-homebrew-content
 
-This module provides homebrew content created for the Pathfinder 2nd Edition game system.
+This modules provides homebrew content for the Pathfinder 2nd Edition game system.
 
-This module utilises the FoundryVTT Adventure Importer functionality to provide content which can be imported into any game world.
+## What does this module provide?
 
-### Pathfinder 2nd Edition: Golarion Hexploration Maps Series
+A complete list of content provided by this module will be updated below as additions are made:
 
-This is a series of hexploration maps designed for the world of Golarion.
-
-Below find a complete record of the currently available hexploration maps and their functionality.
-
-#### PF2e: Inner Sea Region Hexploration Map (WORK IN PROGRESS)
-
-- This hexploration map is of the Inner Sea Region of Golarion.
-- Macros are provided which handle the visibility of Borders and Trade Routes. (See Macros tab in FoundryVTT)
-- Includes blank Journal Entries with appropriate Nation statblocks (includes custom heraldry for nations).
-
-#### PF2e: Darklands Hexploration Map(s) (WORK IN PROGRESS)
-
-- This is a series of 3 hexploration maps which feature the regions of Nar-Voth, Sekamina and Orv.
+### pf2e-inner-sea-region
+- An interactive hexploration-based map of Golarion; will be updated to provide additional functionality with time.
+- Import via "PF2e Inner Sea Region" in the Adventures compendia titled "pf2e-kosen-adventures".
