@@ -1,3 +1,25 @@
-2023/09/13-23:08:35.610 2164 Recovering log #145
-2023/09/13-23:08:35.704 2164 Delete type=0 #145
-2023/09/13-23:08:35.704 2164 Delete type=3 #143
+2023/09/14-21:55:00.682 11a8 Recovering log #164
+2023/09/14-21:55:00.803 11a8 Delete type=0 #164
+2023/09/14-21:55:00.803 11a8 Delete type=3 #162
+2023/09/14-23:17:41.234 2624 Level-0 table #169: started
+2023/09/14-23:17:41.290 2624 Level-0 table #169: 882365 bytes OK
+2023/09/14-23:17:41.342 2624 Delete type=0 #167
+2023/09/14-23:18:25.047 2624 Level-0 table #171: started
+2023/09/14-23:18:25.166 2624 Level-0 table #171: 588143 bytes OK
+2023/09/14-23:18:25.199 2624 Delete type=0 #168
+2023/09/14-23:18:25.199 2624 Manual compaction at level-0 from '!adventures!5zWykXgP1axjNufQ' @ 72057594037927935 : 1 .. '!adventures!luUri3UMfrVDfJYT' @ 0 : 0; will stop at '!adventures!luUri3UMfrVDfJYT' @ 67 : 1
+2023/09/14-23:18:25.199 2624 Compacting 1@0 + 1@1 files
+2023/09/14-23:18:25.242 2624 Generated table #172@0: 2 keys, 303415 bytes
+2023/09/14-23:18:25.242 2624 Compacted 1@0 + 1@1 files => 303415 bytes
+2023/09/14-23:18:25.273 2624 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/14-23:18:25.273 2624 Delete type=2 #169
+2023/09/14-23:18:25.273 2624 Delete type=2 #171
+2023/09/14-23:18:25.274 2624 Manual compaction at level-0 from '!adventures!luUri3UMfrVDfJYT' @ 67 : 1 .. '!adventures!luUri3UMfrVDfJYT' @ 0 : 0; will stop at (end)
+2023/09/14-23:18:25.274 2624 Manual compaction at level-1 from '!adventures!5zWykXgP1axjNufQ' @ 72057594037927935 : 1 .. '!adventures!luUri3UMfrVDfJYT' @ 0 : 0; will stop at '!adventures!luUri3UMfrVDfJYT' @ 67 : 1
+2023/09/14-23:18:25.274 2624 Compacting 1@1 + 1@2 files
+2023/09/14-23:18:25.313 2624 Generated table #173@1: 2 keys, 303415 bytes
+2023/09/14-23:18:25.313 2624 Compacted 1@1 + 1@2 files => 303415 bytes
+2023/09/14-23:18:25.332 2624 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/14-23:18:25.332 2624 Delete type=2 #161
+2023/09/14-23:18:25.332 2624 Delete type=2 #172
+2023/09/14-23:18:25.332 2624 Manual compaction at level-1 from '!adventures!luUri3UMfrVDfJYT' @ 67 : 1 .. '!adventures!luUri3UMfrVDfJYT' @ 0 : 0; will stop at (end)
