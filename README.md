@@ -25,6 +25,8 @@ Includes:
 - Blank Journal Entries with associated Map Pins.
 - Blank Actors with associated Journal Links.
 
+<br>
+
 ### Paizo Inc. Community Use Policy
 To adhere with the Paizo Inc. Community Use Policy, the following information is required to be displayed on this FoundryVTT module.
 
